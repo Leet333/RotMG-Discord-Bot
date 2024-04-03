@@ -22,3 +22,6 @@ asyncio
 
 ## Credits
 * [andronic1234](https://github.com/andronic1234/realmeye-api) - RealmEye API
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
