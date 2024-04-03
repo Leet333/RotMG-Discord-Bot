@@ -19,6 +19,7 @@ asyncio
 ## To Do
 - [ ] O3 Headcount
 - [ ] O3 AFK Check
+- [ ] Finish item aliases
 
 ## Preview
 ![image](https://github.com/Leet333/RotMG-Discord-Bot/assets/153109379/241379c9-abbb-4de2-972f-d815c4744358)
