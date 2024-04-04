@@ -20,6 +20,7 @@ bot = RotmgBot(
 
 cogs = [
     "realmeye",
+    "configuration",
     "misc"
 ]
 
