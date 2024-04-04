@@ -6,6 +6,7 @@ Discord bot with RotMG related commands
 discord.py
 python3
 aiohttp
+aiosqlite
 asyncio
 ```
 
