@@ -16,18 +16,17 @@ asyncio
 * Item lookup
 * Character viewer
 * Random class selector
+* O3 Headcount
 
 ## To Do
-- [ ] O3 Headcount
+- [x] O3 Headcount
 - [ ] O3 AFK Check
 - [ ] Finish item aliases
 
 ## Preview
 ![image](https://github.com/Leet333/RotMG-Discord-Bot/assets/153109379/241379c9-abbb-4de2-972f-d815c4744358)
 ![image](https://github.com/Leet333/RotMG-Discord-Bot/assets/153109379/2481bc3c-b3bb-4f08-9c6a-9dc07b6b1e56)
+![image](https://github.com/Leet333/RotMG-Discord-Bot/assets/153109379/65be0950-6265-40e6-a60d-7189e0f71b68)
 
 ## Credits
 * [andronic1234](https://github.com/andronic1234/realmeye-api) - RealmEye API
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
