@@ -1,5 +1,5 @@
 # RotMG Discord Bot
-Discord bot with RotMG related commands
+Discord bot with RotMG related commands meant for guild/small servers
 
 ## Requirements
 ```
